@@ -1,0 +1,45 @@
+-*- mode: org -*-
+#+AUTHOR: Parker Higgins
+#+CREATOR: Ryan Prior
+#+DATE: 2015-10-23
+#+LANGUAGE: en
+#+SEQ_TODO: TODO STARTED DONE
+#+TITLE: Outline Bling
+
+* You used to call me
+  1) On my cell phone
+  2) Late night
+  3) When you need my love
+
+* I know when that #HotlineBling, that can only mean
+  1) One thing
+
+* Ever since I left the city you
+** DONE Got a reputation for yourself now
+  1) everybody knows
+     - I feel left out
+  2) Got me down (and I feel stressed out)
+** STARTED Wearing less
+** STARTED Going out more
+** DONE (Having) glasses of champagne on the dance floor
+** DONE Hangin’ with some girls I never seen before
+** And me just don’t get along
+** DONE Go places where you don’t belong
+** DONE Got exactly what you asked for
+** DONE Run out of pages in your passport
+
+* These days
+** TODO Wonder
+   1) If you’re bending over backwards for someone else
+   2) If you’re rolling backwoods for someone else
+   3) Doing
+      - Things I taught you
+      - Getting nasty for someone else
+
+* You don't need
+  1) No one else
+  2) Nobody else
+
+* You
+  1) Should just be yourself
+  2) Right now you’re someone else
